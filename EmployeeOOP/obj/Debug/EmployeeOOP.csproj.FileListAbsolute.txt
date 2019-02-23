@@ -1,0 +1,7 @@
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\bin\Debug\EmployeeOOP.exe.config
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\bin\Debug\EmployeeOOP.exe
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\bin\Debug\EmployeeOOP.pdb
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\obj\Debug\EmployeeOOP.csprojAssemblyReference.cache
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\obj\Debug\EmployeeOOP.csproj.CoreCompileInputs.cache
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\obj\Debug\EmployeeOOP.exe
+C:\Users\lutfi\Documents\Visual Studio 2017\Projects\EmployeeOOP\EmployeeOOP\obj\Debug\EmployeeOOP.pdb
