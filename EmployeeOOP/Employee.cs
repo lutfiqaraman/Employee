@@ -9,9 +9,9 @@ namespace EmployeeOOP
     public class Employee
     {
         private readonly string FullName;
-        private readonly int    Hours;
         private readonly double Rate;
-
+        private readonly int    Hours;
+        
         public Employee(string fullname, int hours, double rate)
         {
             FullName = fullname;
